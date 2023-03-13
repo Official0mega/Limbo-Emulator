@@ -1,0 +1,23 @@
+Added qemu disk cache option
+Added qemu hdd interfaces (tap on the disk icon)
+Added ignore breakpoint tb invalidation option
+Apply acceleration option after extra params
+Added option for importing custom BIOS
+Fixed update checker dialog box
+Fixed crash when no machine is loaded
+Fixed problem not saving edit text when machine starts
+Fixed legacy file manager
+Fixed old ndk/gcc support
+
+Assets 4
+limbo-android-arm-6.0.1-qemu-5.1.0.apk
+31.4 MB
+Mar 9, 2022
+limbo-android-x86-6.0.1-qemu-5.1.0.apk
+26.9 MB
+Mar 9, 2022
+Source code
+(zip)
+Mar 9, 2022
+Source code
+(tar.gz)

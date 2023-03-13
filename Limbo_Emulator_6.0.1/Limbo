@@ -1,0 +1,196 @@
+Skip to content
+limboemu
+/
+limbo
+Public
+Code
+Pull requests
+19
+Actions
+Wiki
+Security
+Insights
+Releases: limboemu/limbo
+ReleasesTags
+Find a release
+Limbo Emulator 6.0.1
+Mar 9, 2022
+@limboemu limboemu
+ v6.0.1-LimboEmulator
+ 887c6a6
+Limbo Emulator 6.0.1
+Latest
+Added qemu disk cache option
+Added qemu hdd interfaces (tap on the disk icon)
+Added ignore breakpoint tb invalidation option
+Apply acceleration option after extra params
+Added option for importing custom BIOS
+Fixed update checker dialog box
+Fixed crash when no machine is loaded
+Fixed problem not saving edit text when machine starts
+Fixed legacy file manager
+Fixed old ndk/gcc support
+
+Assets 4
+limbo-android-arm-6.0.1-qemu-5.1.0.apk
+31.4 MB
+Mar 9, 2022
+limbo-android-x86-6.0.1-qemu-5.1.0.apk
+26.9 MB
+Mar 9, 2022
+Source code
+(zip)
+Mar 9, 2022
+Source code
+(tar.gz)
+Mar 9, 2022
+104 people reacted
+chromer030, andreiixe, ljs1965, Anexusgalicano, TheBestBadGamer, kanashifumiku, jeconiasbraga, AI63516460, FOX240, MRXeyad, and 67 more reacted with thumbs up emoji
+Anexusgalicano, TheBestBadGamer, Coldheartedhacker, YouTuberBoy, Brenodutr, tahaghafuri, lalitshankarchowdhury, tfhfh5565, xPrivateTR, MARCOS30864, and 21 more reacted with laugh emojiAnexusgalicano, TheBestBadGamer, Brenodutr, Ejay213, tahaghafuri, lalitshankarchowdhury, PaoGeSaMa, xPrivateTR, MARCOS30864, kerbyrok, and 17 more reacted with hooray emojiAnexusgalicano, TheBestBadGamer, rajbhx, Brenodutr, tahaghafuri, gEwfalMt, lalitshankarchowdhury, xPrivateTR, MARCOS30864, Maa-ddy, and 12 more reacted with heart emojiAnexusgalicano, TheBestBadGamer, Brenodutr, tahaghafuri, lalitshankarchowdhury, Bobster6, xPrivateTR, MARCOS30864, Mohammad458, Jason25841, and 4 more reacted with rocket emojiAnexusgalicano, engin-can-yayla, TheBestBadGamer, Brenodutr, tahaghafuri, lalitshankarchowdhury, xPrivateTR, MARCOS30864, Mohammad458, Jason25841, and 5 more reacted with eyes emoji
+Limbo Emulator 6.0.0
+Sep 25, 2021
+@limboemu limboemu
+ v6.0.0-LimboEmulator
+ 6030e29
+Limbo Emulator 6.0.0
+Limbo Emulator 6.0.0
+
+Assets 10
+74 people reacted
+ItzVladik, Nabir14, barfin, AndroGR, temmieheartz, Denis1996G, Zekiu, GJoe2, Szymon64, 85653444Yasin, and 37 more reacted with thumbs up emoji
+KKBv520, Nabir14, barfin, AndroGR, temmieheartz, Zekiu, 85653444Yasin, rvlphee, rowtigo, yeppiidev, and 11 more reacted with laugh emojibarfin, Zekiu, temmieheartz, 85653444Yasin, rvlphee, Jahangir123j, Naes04, maizon, rowtigo, yeppiidev, and 12 more reacted with hooray emojirvlphee, fgabcy, JoKeRzaF, maizon, temmieheartz, rowtigo, WIROWIBO, yeppiidev, EliedLr, agony-acrimony, and 14 more reacted with heart emojirvlphee, Ahmet375, maizon, temmieheartz, rowtigo, yeppiidev, EliedLr, agony-acrimony, AliBaloch92, Mathiassrb2, and 9 more reacted with rocket emojitemmieheartz, Zekiu, 85653444Yasin, rvlphee, Naes04, maizon, rowtigo, Singtokonelo, yeppiidev, SmaamX, and 14 more reacted with eyes emoji
+Limbo Emulator 5.1.0
+May 9, 2021
+@limboemu limboemu
+ v5.1.0-LimboEmulator
+ 1108e29
+Limbo Emulator 5.1.0
+Limbo v5.1.0
+Fixed issue with importing machines
+No signalfd for better compatibility
+binary filename convention:
+limbo-guest-host-version.apk
+
+Example:
+if you want to run x86 Operating Systems
+and have a modern Android ARMv8 64bit phone/tablet
+then download limbo-x86-androidARM64-5.1.0.apk
+
+Assets 18
+121 people reacted
+KunalSingh19, LoreBadTime, Prasganteng1, dontknowhy, LuoStickmin, smichaelf12, BoQsc, Veeioa, vseal001, QinGuodong1287, and 77 more reacted with thumbs up emoji
+LuoStickmin, smichaelf12, QinGuodong1287, Letems, Chanchan99e, Linggar89678, Dextergithubb, barfin, meleneaggelo, MaxGokue, and 15 more reacted with laugh emojiRXNationGMG, LoreBadTime, dontknowhy, parveenkmr76, LuoStickmin, smichaelf12, Letems, Linggar89678, Dextergithubb, GGIEnrike, and 18 more reacted with hooray emojiMateus13000, smichaelf12, Letems, CJFC01, santosadrian, Dextergithubb, jamesmonk28, GGIEnrike, barfin, meleneaggelo, and 21 more reacted with heart emojismichaelf12, Letems, Fak3adm1n, Dextergithubb, barfin, meleneaggelo, Linggar89678, MaxGokue, MiaoMbvc, Ma445-cell, and 8 more reacted with rocket emojiLinggar89678, Dextergithubb, SUFandom, barfin, meleneaggelo, MaxGokue, MiaoMbvc, Ma445-cell, yhwach75, sampath113, and 13 more reacted with eyes emoji
+Limbo Emulator 5.0.0
+Dec 3, 2020
+@limboemu limboemu
+ v5.0.0-LimboEmulator
+ e94b081
+Limbo Emulator 5.0.0
+Limbo v5.0.0
+Rebase with QEMU 5.1.0
+Stability and less virtual disk corruptions
+Fixed scaling problem under vnc portrait mode
+Fixed mouse hold and drag under vnc
+Fixed dsl issue with resizing
+Files are now closed via their file descriptor parcels
+Compiled with Android 29
+Migrated to androidx
+Enabled notification icon for Android 29
+Host forward now accepts format "tcp:hostport:guestport"
+You will need to change your Host Forward configurations
+Configuration files for different QEMU versions
+Assets 12
+12 people reacted
+barfin, Learndev-student, 123Smith-from-China, Maa-ddy, weihouyu123, mohammadhttps, Mhmdaliali66, Biteter, and Rafaelalves012 reacted with thumbs up emoji
+Devran109, 123Smith-from-China, and xiaojinha reacted with laugh emojiDevran109 reacted with hooray emojiDevran109, 123Smith-from-China, and Maa-ddy reacted with heart emojiDevran109 reacted with rocket emojiDevran109 and Whitehatbro reacted with eyes emoji
+Limbo Emulator 4.1.0
+May 22, 2019
+@limboemu limboemu
+ v4.1.0-LimboEmulator
+ a8b911d
+Limbo Emulator 4.1.0
+v4.1.0-LimboEmulator
+
+Limbo 4.1.0 - QEMU 2.9.1
+Assets 10
+9 people reacted
+misakim834, mrexodia, Jerry5637, Bhood23, Maa-ddy, GustavogsOF, weihouyu123, Allhag, and EugenDOS reacted with thumbs up emoji
+Limbo Emulator 4.0.0
+Jan 6, 2019
+@limboemu limboemu
+ v4.0.0-LimboEmulator
+ ec0ba43
+Limbo Emulator 4.0.0
+v4.0.0-LimboEmulator
+
+4.x PPC compatible machine type should be g3beige
+Assets 2
+2 people reacted
+neerujj reacted with hooray emoji
+Mizan31245 and neerujj reacted with rocket emoji
+Limbo 2.11.0 for x86_64 phones/tablets (x86,arm,ppc,sparc guests)
+Jan 29, 2018
+@limboemu limboemu
+ v2.11.0-Limbox86_64-multiarch
+ 170b8a0
+Limbo 2.11.0 for x86_64 phones/tablets (x86,arm,ppc,sparc guests)
+v2.11.0-Limbox86_64-multiarch
+
+Limbo 2.11.0 for x86 64bit phones/tablets
+Assets 2
+5 people reacted
+Ssdhende6 and Theendermat766 reacted with laugh emoji
+Ma445-cell, CyberSpace127, malachirichardson, and Ssdhende6 reacted with heart emoji
+Limbo 2.11.0 for x86 phones/tablets (x86,arm,ppc,sparc guests)
+Jan 29, 2018
+@limboemu limboemu
+ v2.11.0-Limbox86-multiarch
+ fb0bb84
+Limbo 2.11.0 for x86 phones/tablets (x86,arm,ppc,sparc guests)
+v2.11.0-Limbox86-multiarch
+
+Limbo v2.11.0 for x86 phones/tablets
+Assets 2
+2 people reacted
+KHALID6656 and Hmodi5 reacted with laugh emoji
+Limbo 2.11.0 for ARMv8 phones/tablets (x86,arm,ppc,sparc guests)
+Jan 29, 2018
+@limboemu limboemu
+ v2.11.0-Limboarmv8-multiarch
+ d188ef1
+Limbo 2.11.0 for ARMv8 phones/tablets (x86,arm,ppc,sparc guests)
+v2.11.0-Limboarmv8-multiarch
+
+Limbo 2.11.0 for armv8 64bit phones/tablets
+Assets 2
+3 people reacted
+GustavogsOF, fredw11, and GorkemCan12 reacted with thumbs up emoji
+Limbo 2.11.0 for ARMv7 phones/tablets (x86,arm,ppc,sparc guests)
+Jan 29, 2018
+@limboemu limboemu
+ v2.11.0-Limboarmv7-multiarch
+ 4e88caf
+Limbo 2.11.0 for ARMv7 phones/tablets (x86,arm,ppc,sparc guests)
+v2.11.0-Limboarmv7-multiarch
+
+Limbo v2.11.0 for ARMv7 phones/tablets
+Assets 2
+5 people reacted
+NeoXieChina reacted with thumbs up emoji
+Vacuam, Hammershaun00, fredw11, and CommonGoldIngot reacted with laugh emoji
+ 
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Releases · limboemu/limbo
